@@ -1,7 +1,7 @@
 
 # Linkedin Job Scrapping and Anlaysis
 
-[LinkedIn Jobs](https://www.linkedin.com/jobs/collections/)
+[URL-LinkedIn Jobs](https://www.linkedin.com/jobs/collections/)
 
 ![Project Logo](https://drive.google.com/uc?export=view&id=1c5_lh7amJHCu7X0BItFOsDtylv89lYMH)
 
@@ -17,4 +17,63 @@ The project scope discusses how we have scrapped and analyzed the data on the Li
 - [Tauheed Ahmad](https://github.com/tauheed7080)
 - [Anjali Singh](https://github.com/devanjali2117)
 
+# LinkedIn Job Analysis Project
+
+![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)
+
+Welcome to the LinkedIn Job Analysis Project!
+
+## Overview
+
+In this project, we scrape job data from LinkedIn using Beautiful Soup and Selenium. The data is then analyzed using Power BI, incorporating DAX queries for deeper insights.
+
+## Tools and Technologies Used
+
+### Web Scraping
+
+![Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/_static/Logo2.png)
+![Selenium](https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png)
+
+- **Beautiful Soup**: A library for parsing HTML and XML documents. It creates parse trees that are helpful for extracting data from HTML.
+- **Selenium**: A portable framework for testing web applications. It is also used for web scraping to interact with dynamic content.
+
+### Data Analysis
+
+![Power BI](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg)
+
+- **Power BI**: A business analytics tool by Microsoft. It provides interactive visualizations and business intelligence capabilities with an interface simple enough for end users to create their own reports and dashboards.
+  - **DAX Queries**: Data Analysis Expressions (DAX) is a formula language used in Power BI for creating custom calculations in calculated columns and measures.
+
+## Project Structure
+
+The project is structured as follows:
+
+- **Scraping**: Scripts for scraping LinkedIn job data using Beautiful Soup and Selenium.
+- **Data Processing**: Scripts for cleaning and preparing the scraped data for analysis.
+- **Analysis**: Power BI reports and dashboards for visualizing the job data.
+
+## How to Run the Project
+
+1. **Setup the Environment**:
+   - Install the required Python libraries:
+     ```bash
+     pip install beautifulsoup4 selenium
+     ```
+
+2. **Scrape the Data**:
+   - Run the scraping scripts to gather job data from LinkedIn.
+
+3. **Analyze the Data**:
+   - Open the Power BI report and load the cleaned data.
+   - Use DAX queries to create custom calculations and visualizations.
+
+## Conclusion
+
+This project provides a comprehensive analysis of job data from LinkedIn, using advanced web scraping techniques and powerful data analysis tools. It demonstrates the effective use of Beautiful Soup and Selenium for data collection and Power BI for data visualization and analysis.
+
+Feel free to explore the repository and use the scripts and reports for your own analysis.
+
+---
+
+![LinkedIn Job Analysis](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)
 
