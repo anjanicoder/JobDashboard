@@ -19,7 +19,7 @@ The project scope discusses how we have scrapped and analyzed the data on the Li
 
 # LinkedIn Job Analysis Project
 
-![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="100"/>
 
 Welcome to the LinkedIn Job Analysis Project!
 
@@ -31,15 +31,15 @@ In this project, we scrape job data from LinkedIn using Beautiful Soup and Selen
 
 ### Web Scraping
 
-![Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/_static/Logo2.png)
-![Selenium](https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png)
+<img src="https://www.crummy.com/software/BeautifulSoup/bs4/doc/_static/Logo2.png" alt="Beautiful Soup" width="100"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium" width="100"/>
 
 - **Beautiful Soup**: A library for parsing HTML and XML documents. It creates parse trees that are helpful for extracting data from HTML.
 - **Selenium**: A portable framework for testing web applications. It is also used for web scraping to interact with dynamic content.
 
 ### Data Analysis
 
-![Power BI](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="100"/>
 
 - **Power BI**: A business analytics tool by Microsoft. It provides interactive visualizations and business intelligence capabilities with an interface simple enough for end users to create their own reports and dashboards.
   - **DAX Queries**: Data Analysis Expressions (DAX) is a formula language used in Power BI for creating custom calculations in calculated columns and measures.
@@ -70,6 +70,12 @@ The project is structured as follows:
 ## Conclusion
 
 This project provides a comprehensive analysis of job data from LinkedIn, using advanced web scraping techniques and powerful data analysis tools. It demonstrates the effective use of Beautiful Soup and Selenium for data collection and Power BI for data visualization and analysis.
+
+Feel free to explore the repository and use the scripts and reports for your own analysis.
+
+---
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Job Analysis" width="100"/>
 
 Feel free to explore the repository and use the scripts and reports for your own analysis.
 
