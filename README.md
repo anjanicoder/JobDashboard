@@ -18,6 +18,8 @@ The project scope discusses how we have scrapped and analyzed the data on the Li
 - [Anjali Singh](https://github.com/devanjali2117)
 
 # LinkedIn Job Analysis Project
+![Dashboard Image](https://github.com/anjanicoder/JobDashboard/blob/e8c307e9a2e7c9fc392b01772ad8ae7c0fca3fd3/Project%20Image/main.jpg?raw=true)
+
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="100"/>
 
@@ -42,7 +44,7 @@ In this project, we scrape job data from LinkedIn using Beautiful Soup and Selen
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="100"/>
 
 - **Power BI**: A business analytics tool by Microsoft. It provides interactive visualizations and business intelligence capabilities with an interface simple enough for end users to create their own reports and dashboards.
-  - **DAX Queries**: Data Analysis Expressions (DAX) is a formula language used in Power BI for creating custom calculations in calculated columns and measures.
+  - **DAX Queries**: Data Analysis Expressions (DAX) is a formula language used in Power BI to create custom calculations in calculated columns and measures.
 
 ## Project Structure
 
@@ -69,17 +71,8 @@ The project is structured as follows:
 
 ## Conclusion
 
-This project provides a comprehensive analysis of job data from LinkedIn, using advanced web scraping techniques and powerful data analysis tools. It demonstrates the effective use of Beautiful Soup and Selenium for data collection and Power BI for data visualization and analysis.
+This project comprehensively analyses job data from LinkedIn, using advanced web scraping techniques and powerful data analysis tools. It demonstrates the effective use of Beautiful Soup and Selenium for data collection and Power BI for data visualization and analysis.
 
-Feel free to explore the repository and use the scripts and reports for your own analysis.
+You can explore the repository and use the scripts and reports for your own analysis.
 
----
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Job Analysis" width="100"/>
-
-Feel free to explore the repository and use the scripts and reports for your own analysis.
-
----
-
-![LinkedIn Job Analysis](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)
 
