@@ -15,7 +15,7 @@ The project Scope discusses how we have scrapped and analyzed the data on the Li
 - [Salil Singh](https://github.com/Salil-Singh-01)
 - [Aamir Khan](https://github.com/aam1rkhan)
 - [Tauheed Ahmad](https://github.com/tauheed7080)
-- [Anjali Singh](https://github.com/devanjali2117)
+- [Jaishree Yadav](https://github.com/Jayadavv)
 
 # LinkedIn Job Analysis Project
 ![Dashboard Image](https://github.com/anjanicoder/JobDashboard/blob/e8c307e9a2e7c9fc392b01772ad8ae7c0fca3fd3/Project%20Image/main.jpg?raw=true)
